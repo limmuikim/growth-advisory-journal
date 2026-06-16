@@ -1,4 +1,4 @@
-## Growth Advisory Journal
+### Growth Advisory Journal
 
 A collection of frameworks, system logic, and strategic insights focused on AI transformation, growth systems, and APAC commercial leadership.
 
